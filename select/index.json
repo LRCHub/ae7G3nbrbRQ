@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "V",
+  "base_artist": "Yusuke",
+  "createdAt": "2026-03-10T00:44:15.894467Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ice V",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Ice_V_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "D-I-V-O-R-C-E",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/02_D-I-V-O-R-C-E_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "D-I-V-O-R-C-E (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/03_D-I-V-O-R-C-E_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Sun Always Shines on T.V.",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/04_The_Sun_Always_Shines_on_T.V._A-ha.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "End of the Night (feat. Bobby V)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/05_End_of_the_Night_(feat._Bobby_V)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Leonard I-V",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/06_Leonard_I-V_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "V.N.D.",
+      "artist": "Dendemann",
+      "has_synced": false,
+      "path": "select/07_V.N.D._Dendemann.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Banned from T.V.",
+      "artist": "lil wayne",
+      "has_synced": false,
+      "path": "select/08_Banned_from_T.V._lil_wayne.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Us V Them",
+      "artist": "LCD Soundsystem",
+      "has_synced": true,
+      "path": "select/09_Us_V_Them_LCD_Soundsystem.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "V",
+      "artist": "Labradford",
+      "has_synced": false,
+      "path": "select/10_V_Labradford.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "V for You",
+      "artist": "Las Robertas",
+      "has_synced": true,
+      "path": "select/11_V_for_You_Las_Robertas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hero v.s. Villain (Epilogue)",
+      "artist": "MF DOOM feat. E. Mason",
+      "has_synced": true,
+      "path": "select/12_Hero_v.s._Villain_(Epilogue)_MF_DOOM_feat._E._Mason.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mother Of God (feat. V. Bonema)",
+      "artist": "MIKE",
+      "has_synced": false,
+      "path": "select/13_Mother_Of_God_(feat._V._Bonema)_MIKE.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "V. Orlando: Memory Is The Seamstress",
+      "artist": "Max Richter feat. Sarah Sutcliffe",
+      "has_synced": false,
+      "path": "select/14_V._Orlando__Memory_Is_The_Seamstress_Max_Richter_feat._Sarah_Sutcliffe.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rich & Famous (feat. Louie V)",
+      "artist": "Meek Mill feat. Louie V",
+      "has_synced": true,
+      "path": "select/15_Rich_&_Famous_(feat._Louie_V)_Meek_Mill_feat._Louie_V.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rich And Famous (Feat. Louie V)",
+      "artist": "Meek Mill",
+      "has_synced": true,
+      "path": "select/16_Rich_And_Famous_(Feat._Louie_V)_Meek_Mill.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "There Ain't Shit On T.V. Tonight",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/17_There_Ain't_Shit_On_T.V._Tonight_Minutemen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "V",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_01_V_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "V",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_02_V_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "V",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_03_V_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "VIVA! Nossa Nossa",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_04_VIVA!_Nossa_Nossa_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "VIVA! Nossa Nossa",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_05_VIVA!_Nossa_Nossa_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "V(ボルト)",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_06_V(ボルト)_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "V(ボルト)(カナ歌詞)",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_07_V(ボルト)(カナ歌詞)_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Voyager",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_08_Voyager_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Vampire",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_09_Vampire_遊助.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "VIVA! nossa  nossa",
+      "artist": "遊助",
+      "has_synced": false,
+      "path": "select/pl_10_VIVA!_nossa_nossa_遊助.txt"
+    }
+  ]
+}
